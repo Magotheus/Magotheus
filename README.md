@@ -1,6 +1,5 @@
 ### Olá Sou o Matheus... 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente procuro ingressar na área de TI ...
 - 🌱 Estudando Eng. da computação ...
